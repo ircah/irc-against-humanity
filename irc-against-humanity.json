@@ -18,7 +18,7 @@
 	{"text": "The best thing about bipolar disorder: %s."},
 	{"text": "You can never have too much %s."},
 	{"text": "I didn't know about %s until %s introduced me to it.", "pick": 2},
-	{"text": "%s and %s. I ship it."},
+	{"text": "%s and %s. I ship it.", "pick": 2},
 	{"text": "%s looked through my browser history, only to discover %s.", "pick": 2}
 ],
 "answers": [
@@ -70,7 +70,7 @@
 	"Jew skin wallet",
 	"9/11",
 	"Mexican gardener",
-	"A text message from your ex"
+	"A text message from your ex",
 	"Joining a band to impress girls",
 	"How to beat your children without leaving any sign of injury",
 	"$5 blowjob",
