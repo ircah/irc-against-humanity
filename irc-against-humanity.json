@@ -14,7 +14,12 @@
 	{"text": "Life ain't noting but %s and %s.", "pick": 2},
 	{"text": "On his newest album Sting played %s."},
 	{"text": "My father is %s and my mother is %s.", "pick": 2},
-	{"text": "My greatest ambition as a child was always %s."}
+	{"text": "My greatest ambition as a child was always %s."},
+	{"text": "The best thing about bipolar disorder: %s."},
+	{"text": "You can never have too much %s."},
+	{"text": "I didn't know about %s until %s introduced me to it.", "pick": 2},
+	{"text": "%s and %s. I ship it."},
+	{"text": "%s looked through my browser history, only to discover %s.", "pick": 2}
 ],
 "answers": [
 	"Imaginary boyfriend",
@@ -62,5 +67,32 @@
 	"Sweat shops",
 	"Obsession with money",
 	"Getting trapled to death in a mosh pit",
-	"Jew skin wallet"
+	"Jew skin wallet",
+	"9/11",
+	"Mexican gardener",
+	"A text message from your ex"
+	"Joining a band to impress girls",
+	"How to beat your children without leaving any sign of injury",
+	"$5 blowjob",
+	"Explaining sex to your little sister",
+	"Hardcore gangster rap",
+	"Christopher Walken staring at you",
+	"Violent kleptomaniac",
+	"Homeless chicks",
+	"Voodoo doll",
+	"Balls of steel",
+	"Quit my job",
+	"Massage oil",
+	"Strap on",
+	"Dophin rape",
+	"Dying your public hair",
+	"My husband",
+	"BDSM",
+	"Christian Grey",
+	"/r/clopclop",
+	"/s/",
+	"/b/",
+	"Pornhub",
+	"Meatspin",
+	"Singlemuslim.com"
 ]}
