@@ -9,5 +9,8 @@ $(document).ready(function () {
 		$.each(data.answers, function (i) {
 			$("#white-cards .row").append("<div class='card white-card col-xs-6 col-sm-4 col-lg-4 text-center'>" + data.answers[i] + ".</div>")
 		});
+
+		$("#black-cards #count").text(data.questions.length);
+		$("#white-cards #count").text(data.answers.length);
 	});
 });
