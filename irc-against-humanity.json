@@ -26,12 +26,12 @@
 	{"text": "How did I become rich?"},
 	{"text": "Next summer hit: Darude - %s."},
 	{"text": ">I pray to %s every night before bed, thankful for the life I've been given."},
-	{"text": "I've never seen %s and %s in the same room. Don't wanna jump to conclusions but..."},
-	{"text": "I've always prefered %s over %s."},
+	{"text": "I've never seen %s and %s in the same room. Don't wanna jump to conclusions but...", "pick": 2},
+	{"text": "I've always prefered %s over %s.", "pick": 2},
 	{"text": "It appears that the victim was %s before dying."},
 	{"text": "I want to learn how to %s."},
 	{"text": "Calm down, man. It's just %s."},
-	{"text": "%s can't melt %s."}
+	{"text": "%s can't melt %s.", "pick": 2}
 ],
 "answers": [
 	"An imaginary boyfriend",
