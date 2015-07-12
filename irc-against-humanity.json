@@ -32,7 +32,9 @@
     { "text": "It appears that the victim was %s before dying." },
     { "text": "I want to learn how to %s." },
     { "text": "Calm down, man. It's just %s." },
-    { "text": "%s can't melt %s." }
+    { "text": "%s can't melt %s." },
+    { "text": "Don't worry, I have a master's degree in %s." },
+    { "text": "Don't worry, I have a PhD in %s." }
   ],
   "answers": [
     "An imaginary boyfriend",
