@@ -36,7 +36,12 @@
     { "text": "Don't worry, I have a master's degree in %s." },
     { "text": "Don't worry, I have a PhD in %s." },
     { "text": "%s? Don't worry, I have a master's degree in %s." },
-    { "text": "%s? Don't worry, I have a PhD in %s." }
+    { "text": "%s? Don't worry, I have a PhD in %s." },
+    { "text": "Your face when you see %s eating %s." },
+    { "text": "No %s, just follow the cool sweat dripping down your %s." },
+    { "text": "You want to play %s?" },
+    { "text": "I was playing with my %s until it fell into %s." }, 
+    { "text": "Would you eat %s with a mouse? Would you %s on a %s? Yes, yes, I would!" } 
   ],
   "answers": [
     "An imaginary boyfriend",
@@ -136,7 +141,13 @@
     "Zac Efron",
     "Taylor Swift",
     "You",
-    "Being a motherfucker"
+    "Being a motherfucker",
+    "Yo-yo",
+    "Green eggs and Ham",
+    "Maybe",
+    "Beautiful",
+    "Sit on my face!"
+   
   ],
   "meta": {
     "name": "IRC Against Humanity"
