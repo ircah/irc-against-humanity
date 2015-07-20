@@ -41,7 +41,8 @@
     { "text": "No %s, just follow the cool sweat dripping down your %s." },
     { "text": "You want to play %s?" },
     { "text": "I was playing with my %s until it fell into %s." },
-    { "text": "Would you eat %s with a mouse? Would you %s on a %s? Yes, yes, I would!" }
+    { "text": "Would you eat %s with a mouse? Would you %s on a %s? Yes, yes, I would!" },
+    { "text": "It's not cheating, it's %s." }
   ],
   "answers": [
     "An imaginary boyfriend",
