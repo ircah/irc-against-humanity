@@ -1,7 +1,7 @@
 {
 	questions: [
 		{ text: "A fleshlight modelled after %s." },
-		{ text: "A serial killer who takes his victims %s as trophies." },
+		{ text: "A serial killer who takes his victims' %s as trophies." },
 		{ text: "The most popular Christmas present this year: %s!" },
 		{ text: "This Halloween I'm going trick-or-treating as %s." },
 		{ text: "Tonight on Dr. Phill: %s." },
@@ -12,7 +12,7 @@
 		{ text: "Collecing money to help %s." },
 		{ text: "Batman's favourite gadget on his utility belt: %s." },
 		{ text: "I lost all my money betting on %s." },
-		{ text: "Life ain't noting but %s and %s." },
+		{ text: "Life ain't nothing but %s and %s." },
 		{ text: "On his newest album Sting played %s." },
 		{ text: "My father is %s and my mother is %s." },
 		{ text: "My greatest ambition as a child was always %s." },
