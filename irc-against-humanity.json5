@@ -47,6 +47,7 @@
 		{ text: "It's not that I don't like you. It's just that I prefer %s." },
 		{ text: "Sticks and stones might break my bones, but %s and %s excite me!" },
 		{ text: "What do you call a baby Muslim?" },
+		{ text: "With time, you realize that %s is the only way to go." },
 	],
 	answers: [
 		"An imaginary boyfriend",
