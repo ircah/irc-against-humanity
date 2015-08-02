@@ -48,6 +48,7 @@
 		{ text: "Sticks and stones might break my bones, but %s and %s excite me!" },
 		{ text: "What do you call a baby Muslim?" },
 		{ text: "With time, you realize that %s is the only way to go." },
+		{ text: "What is something North America generally does better than Europe?" },
 	],
 	answers: [
 		"An imaginary boyfriend",
@@ -178,6 +179,7 @@
 		"One Direction",
 		"Ariana Grande",
 		"Nicki Minaj",
+		"Pedo Santa",
 	],
 	meta: {
 		name: "IRC Against Humanity",
