@@ -40,7 +40,6 @@
 		{ text: "Your face when you see %s eating %s." },
 		{ text: "You want to play %s?" },
 		{ text: "I was playing with my %s until it fell into %s." },
-		{ text: "Would you eat %s with a mouse? Would you %s on a %s? Yes, yes, I would!" },
 		{ text: "It's not cheating, it's %s." },
 		{ text: "I am sorry, but you have a severe case of %s." },
 		{ text: "It's not that I don't like you. It's just that I prefer %s." },
