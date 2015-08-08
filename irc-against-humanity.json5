@@ -53,6 +53,7 @@
 		{ text: "I just started a new religion. We worship %s, and after dying, you %s." },
 		{ text: "9/11, who did it?" },
 		{ text: "Who shot JFK?" },
+		{ text: "%s is fine as long as it doesn't involve %s." },
 	],
 	answers: [
 		"An imaginary boyfriend",
@@ -232,6 +233,10 @@
 		"Ronald Reagan's summer camp for young republicans",
 		"Free will",
 		"Propaganda",
+		"Being gay",
+		"Money",
+		"Allah",
+		"Clop",
 	],
 	meta: {
 		name: "IRC Against Humanity",
