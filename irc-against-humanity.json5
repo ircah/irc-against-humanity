@@ -108,6 +108,7 @@
 		{ text: "Who would win in a fight?" },
 		{ text: "When my mom was pregnant with me, she had a constant craving for %s." },
 		{ text: "In a groundbreaking classic conditioning experiment, researchers have succeeded in making teenage girls drool whenever they see %s." },
+		{ text: "%s? Needs more %s!" },
 	],
 	answers: [
 		"An imaginary boyfriend",
@@ -520,6 +521,8 @@
 		"Free bleeding",
 		"Accidentally groping my mother",
 		"Spontaneous male lactation",
+		"Anime",
+		"Pentapenetration",
 	],
 	meta: {
 		name: "IRC Against Humanity",
