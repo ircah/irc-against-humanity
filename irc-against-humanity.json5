@@ -78,7 +78,7 @@
 		{ text: "I have a try-everything-once attitude, except when it comes to %s, obviously." },
 		{ text: "The three worst cards in my hand, you ask? %s, %s and %s." },
 		{ text: "Who gives a fuck about %s?" },
-		{ text: "In a recent survey sponsored by %s it was shown that 84.7\% of Americans support %s." },
+		{ text: "In a recent survey sponsored by %s it was shown that 84.7%% of Americans support %s." },
 		{ text: "I was hired by %s immediately once they saw moderating /r/%s on my resume." },
 		{ text: "My fiancé left me for %s after I surprised him with %s." },
 		{ text: "What was really behind the mysterious abandonment of the Lost Colony of Roanoke?" },
